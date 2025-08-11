@@ -1,0 +1,101 @@
+analysis_id,product_name,category,overall_score,market_demand,ingredient_trends,competition_level,innovation_factor,recommendation,risk_factor
+analysis_001,Premium Matcha Shot,Beverages,91,94,92,78,89,Strong market potential with trending ingredients,Supply chain volatility for key ingredients
+analysis_002,Organic Acai Bar,Snacks,89,91,89,82,86,Excellent alignment with consumer health trends,High competition in segment
+analysis_003,Super Turmeric Smoothie,Beverages,87,89,87,85,84,High demand in target demographic,Premium pricing concerns
+analysis_004,Golden Spirulina Chips,Snacks,84,86,84,88,81,Strong regional preference match,Saturated market with established players
+analysis_005,Fresh Quinoa Bowl,Cereals,82,84,82,83,79,Premium positioning recommended,Texture expectations
+analysis_006,Natural Green Tea Mix,Beverages,85,87,81,79,88,Solid market opportunity with careful positioning,Seasonal availability constraints
+analysis_007,Pure Coconut Bites,Snacks,83,85,80,86,80,Target health-conscious consumers,Price point sensitivity
+analysis_008,Power Ginger Shot,Beverages,81,83,78,81,82,Consider seasonal marketing approach,Consumer acceptance uncertainty
+analysis_009,Artisan Oat Milk Blend,Dairy,86,88,76,84,91,Focus on ingredient benefits messaging,Regional preference variations
+analysis_010,Super Dark Chocolate Bar,Confectionery,84,82,75,87,89,Explore niche market opportunities,High marketing costs for differentiation
+analysis_011,Golden Chickpeas Crackers,Snacks,80,82,74,89,78,Requires significant market education,Taste acceptance barrier
+analysis_012,Organic Hibiscus Tea,Beverages,78,80,73,76,83,Consider reformulation with trending ingredients,Limited market awareness
+analysis_013,Pure Vanilla Cookies,Confectionery,76,78,68,83,79,Focus on cost-effective production,Regulatory considerations for health claims
+analysis_014,Natural Honey Granola,Cereals,77,79,67,85,80,Target specific consumer segments,Shelf life challenges
+analysis_015,Fresh Sea Salt Chips,Snacks,75,77,66,88,77,Emphasize unique value proposition,Color stability issues
+analysis_016,Power Almonds Bowl,Cereals,79,81,65,81,84,Strong health trend alignment,Production scalability
+analysis_017,Artisan Coconut Water,Beverages,81,83,64,79,86,Capitalize on trend,Seasonal limitations
+analysis_018,Premium Maple Syrup Mix,Confectionery,74,76,62,86,76,Health-conscious positioning,Complex supply chain
+analysis_019,Super Matcha Ice Cream,Dairy,88,90,92,81,85,Dairy-free market growth,Seasonal demand variation
+analysis_020,Golden Acai Smoothie,Beverages,86,88,89,83,82,Superfood positioning,High competition in segment
+analysis_021,Organic Turmeric Chips,Snacks,85,87,87,86,81,Protein trend opportunity,Premium pricing concerns
+analysis_022,Fresh Spirulina Bowl,Cereals,82,84,84,84,78,Floral tea trend,Supply chain volatility for key ingredients
+analysis_023,Natural Quinoa Bites,Snacks,81,83,82,85,77,Healthy indulgence positioning,Saturated market with established players
+analysis_024,Pure Green Tea Yogurt,Dairy,83,85,81,82,84,Breakfast trend alignment,Texture expectations
+analysis_025,Power Coconut Bar,Snacks,80,82,80,87,76,Plant-based opportunity,Seasonal availability constraints
+analysis_026,Artisan Ginger Tea,Beverages,79,81,78,80,81,Premium positioning,Price point sensitivity
+analysis_027,Premium Oat Milk Cookies,Confectionery,82,84,76,83,85,Strong market potential with trending ingredients,Consumer acceptance uncertainty
+analysis_028,Super Dark Chocolate Chips,Snacks,78,80,75,88,79,Excellent alignment with consumer health trends,Regional preference variations
+analysis_029,Golden Chickpeas Bowl,Cereals,76,78,74,86,77,High demand in target demographic,High marketing costs for differentiation
+analysis_030,Organic Hibiscus Bites,Snacks,74,76,73,84,78,Strong regional preference match,Taste acceptance barrier
+analysis_031,Fresh Vanilla Granola,Cereals,75,77,68,85,80,Premium positioning recommended,Limited market awareness
+analysis_032,Natural Honey Bar,Snacks,73,75,67,87,76,Solid market opportunity with careful positioning,Regulatory considerations for health claims
+analysis_033,Pure Sea Salt Bowl,Cereals,72,74,66,83,78,Target health-conscious consumers,Shelf life challenges
+analysis_034,Power Almonds Chips,Snacks,77,79,65,81,82,Consider seasonal marketing approach,Color stability issues
+analysis_035,Artisan Coconut Water Tea,Beverages,79,81,64,79,84,Focus on ingredient benefits messaging,Production scalability
+analysis_036,Premium Maple Syrup Cookies,Confectionery,71,73,62,86,75,Explore niche market opportunities,Seasonal limitations
+analysis_037,Super Matcha Bowl,Cereals,87,89,92,82,83,Requires significant market education,Complex supply chain
+analysis_038,Golden Acai Bar,Snacks,85,87,89,84,80,Consider reformulation with trending ingredients,Seasonal demand variation
+analysis_039,Organic Turmeric Tea,Beverages,84,86,87,85,79,Focus on cost-effective production,High competition in segment
+analysis_040,Fresh Spirulina Chips,Snacks,81,83,84,87,77,Target specific consumer segments,Premium pricing concerns
+analysis_041,Natural Quinoa Granola,Cereals,80,82,82,83,78,Emphasize unique value proposition,Supply chain volatility for key ingredients
+analysis_042,Pure Green Tea Bar,Snacks,82,84,81,81,83,Strong health trend alignment,Saturated market with established players
+analysis_043,Power Coconut Cookies,Confectionery,79,81,80,86,76,Capitalize on trend,Texture expectations
+analysis_044,Artisan Ginger Chips,Snacks,78,80,78,84,80,Health-conscious positioning,Seasonal availability constraints
+analysis_045,Premium Oat Milk Bowl,Cereals,81,83,76,82,84,Dairy-free market growth,Price point sensitivity
+analysis_046,Super Dark Chocolate Tea,Beverages,77,79,75,87,78,Superfood positioning,Consumer acceptance uncertainty
+analysis_047,Golden Chickpeas Bar,Snacks,75,77,74,85,76,Protein trend opportunity,Regional preference variations
+analysis_048,Organic Hibiscus Cookies,Confectionery,73,75,73,83,77,Floral tea trend,High marketing costs for differentiation
+analysis_049,Fresh Vanilla Bar,Snacks,74,76,68,84,79,Healthy indulgence positioning,Taste acceptance barrier
+analysis_050,Natural Honey Chips,Snacks,72,74,67,86,75,Breakfast trend alignment,Limited market awareness
+analysis_051,Pure Sea Salt Cookies,Confectionery,71,73,66,82,77,Plant-based opportunity,Regulatory considerations for health claims
+analysis_052,Power Almonds Tea,Beverages,76,78,65,80,81,Premium positioning,Shelf life challenges
+analysis_053,Artisan Coconut Water Bowl,Cereals,78,80,64,78,83,Strong market potential with trending ingredients,Color stability issues
+analysis_054,Premium Maple Syrup Bar,Snacks,70,72,62,85,74,Excellent alignment with consumer health trends,Production scalability
+analysis_055,Super Matcha Cookies,Confectionery,86,88,92,83,82,High demand in target demographic,Seasonal limitations
+analysis_056,Golden Acai Chips,Snacks,84,86,89,85,79,Strong regional preference match,Complex supply chain
+analysis_057,Organic Turmeric Bowl,Cereals,83,85,87,84,78,Premium positioning recommended,Seasonal demand variation
+analysis_058,Fresh Spirulina Tea,Beverages,80,82,84,86,77,Solid market opportunity with careful positioning,High competition in segment
+analysis_059,Natural Quinoa Bar,Snacks,79,81,82,82,80,Target health-conscious consumers,Premium pricing concerns
+analysis_060,Pure Green Tea Chips,Snacks,81,83,81,80,82,Consider seasonal marketing approach,Supply chain volatility for key ingredients
+analysis_061,Power Coconut Bowl,Cereals,78,80,80,85,75,Focus on ingredient benefits messaging,Saturated market with established players
+analysis_062,Artisan Ginger Bar,Snacks,77,79,78,83,79,Explore niche market opportunities,Texture expectations
+analysis_063,Premium Oat Milk Chips,Snacks,80,82,76,81,83,Requires significant market education,Seasonal availability constraints
+analysis_064,Super Dark Chocolate Bowl,Cereals,76,78,75,86,77,Consider reformulation with trending ingredients,Price point sensitivity
+analysis_065,Golden Chickpeas Cookies,Confectionery,74,76,74,84,75,Focus on cost-effective production,Consumer acceptance uncertainty
+analysis_066,Organic Hibiscus Tea,Beverages,72,74,73,82,76,Target specific consumer segments,Regional preference variations
+analysis_067,Fresh Vanilla Chips,Snacks,73,75,68,83,78,Emphasize unique value proposition,High marketing costs for differentiation
+analysis_068,Natural Honey Bowl,Cereals,71,73,67,85,74,Strong health trend alignment,Taste acceptance barrier
+analysis_069,Pure Sea Salt Bar,Snacks,70,72,66,81,76,Capitalize on trend,Limited market awareness
+analysis_070,Power Almonds Cookies,Confectionery,75,77,65,79,80,Health-conscious positioning,Regulatory considerations for health claims
+analysis_071,Artisan Coconut Water Bar,Snacks,77,79,64,77,82,Dairy-free market growth,Shelf life challenges
+analysis_072,Premium Maple Syrup Chips,Snacks,69,71,62,84,73,Superfood positioning,Color stability issues
+analysis_073,Super Matcha Tea,Beverages,85,87,92,82,81,Protein trend opportunity,Production scalability
+analysis_074,Golden Acai Bowl,Cereals,83,85,89,84,78,Floral tea trend,Seasonal limitations
+analysis_075,Organic Turmeric Bar,Snacks,82,84,87,83,79,Healthy indulgence positioning,Complex supply chain
+analysis_076,Fresh Spirulina Cookies,Confectionery,79,81,84,85,76,Breakfast trend alignment,Seasonal demand variation
+analysis_077,Natural Quinoa Chips,Snacks,78,80,82,81,79,Plant-based opportunity,High competition in segment
+analysis_078,Pure Green Tea Bowl,Cereals,80,82,81,79,81,Premium positioning,Premium pricing concerns
+analysis_079,Power Coconut Tea,Beverages,77,79,80,84,74,Strong market potential with trending ingredients,Supply chain volatility for key ingredients
+analysis_080,Artisan Ginger Bowl,Cereals,76,78,78,82,78,Excellent alignment with consumer health trends,Saturated market with established players
+analysis_081,Premium Oat Milk Tea,Beverages,79,81,76,80,82,High demand in target demographic,Texture expectations
+analysis_082,Super Dark Chocolate Bar,Snacks,75,77,75,85,76,Strong regional preference match,Seasonal availability constraints
+analysis_083,Golden Chickpeas Tea,Beverages,73,75,74,83,74,Premium positioning recommended,Price point sensitivity
+analysis_084,Organic Hibiscus Bowl,Cereals,71,73,73,81,75,Solid market opportunity with careful positioning,Consumer acceptance uncertainty
+analysis_085,Fresh Vanilla Tea,Beverages,72,74,68,82,77,Target health-conscious consumers,Regional preference variations
+analysis_086,Natural Honey Tea,Beverages,70,72,67,84,73,Consider seasonal marketing approach,High marketing costs for differentiation
+analysis_087,Pure Sea Salt Tea,Beverages,69,71,66,80,75,Focus on ingredient benefits messaging,Taste acceptance barrier
+analysis_088,Power Almonds Bowl,Cereals,74,76,65,78,79,Explore niche market opportunities,Limited market awareness
+analysis_089,Artisan Coconut Water Chips,Snacks,76,78,64,76,81,Requires significant market education,Regulatory considerations for health claims
+analysis_090,Premium Maple Syrup Tea,Beverages,68,70,62,83,72,Consider reformulation with trending ingredients,Shelf life challenges
+analysis_091,Super Matcha Bar,Snacks,84,86,92,81,80,Focus on cost-effective production,Color stability issues
+analysis_092,Golden Acai Tea,Beverages,82,84,89,83,77,Target specific consumer segments,Production scalability
+analysis_093,Organic Turmeric Chips,Snacks,81,83,87,82,78,Emphasize unique value proposition,Seasonal limitations
+analysis_094,Fresh Spirulina Bowl,Cereals,78,80,84,84,75,Strong health trend alignment,Complex supply chain
+analysis_095,Natural Quinoa Tea,Beverages,77,79,82,80,78,Capitalize on trend,Seasonal demand variation
+analysis_096,Pure Green Tea Tea,Beverages,79,81,81,78,80,Health-conscious positioning,High competition in segment
+analysis_097,Power Coconut Chips,Snacks,76,78,80,83,73,Dairy-free market growth,Premium pricing concerns
+analysis_098,Artisan Ginger Tea,Beverages,75,77,78,81,77,Superfood positioning,Supply chain volatility for key ingredients
+analysis_099,Premium Oat Milk Bar,Snacks,78,80,76,79,81,Protein trend opportunity,Saturated market with established players
+analysis_100,Super Dark Chocolate Chips,Snacks,74,76,75,84,75,Floral tea trend,Texture expectations

@@ -1,0 +1,81 @@
+id,company_name,total_products,average_score,market_share,growth_trend,primary_category,region,founded_year
+1,NaturalFoods,68,92.4,22.8,8.7,Beverages,North America,2016
+2,HealthyBrands,52,89.1,19.4,6.2,Snacks,Europe,2017
+3,GreenGroup,61,87.8,21.6,7.8,Dairy,Asia Pacific,2015
+4,OrganicInc,59,86.3,20.1,9.1,Cereals,Europe,2016
+5,PureWorks,48,91.2,18.7,11.4,Beverages,North America,2018
+6,FreshSolutions,44,85.9,17.2,5.8,Confectionery,Europe,2017
+7,VitalNutrition,42,88.7,16.9,9.8,Snacks,Asia Pacific,2019
+8,SmartCo,39,84.1,15.3,7.4,Dairy,North America,2018
+9,EcoLabs,36,87.5,14.8,12.1,Beverages,Europe,2020
+10,PowerIndustries,34,83.6,13.9,6.9,Cereals,North America,2019
+11,NaturalWorks,58,85.7,19.8,5.4,Snacks,Europe,2017
+12,HealthyGroup,46,88.2,17.6,8.3,Dairy,Asia Pacific,2018
+13,GreenCo,54,84.9,18.9,6.7,Beverages,North America,2016
+14,OrganicSolutions,41,86.8,16.4,9.6,Confectionery,Europe,2019
+15,PureBrands,37,82.3,14.7,7.1,Cereals,Asia Pacific,2020
+16,FreshInc,33,87.1,13.2,10.8,Snacks,North America,2021
+17,VitalFoods,29,81.9,12.5,8.9,Dairy,Europe,2020
+18,SmartNutrition,26,85.4,11.8,12.7,Beverages,Asia Pacific,2022
+19,EcoIndustries,23,80.6,10.9,9.2,Confectionery,North America,2021
+20,PowerLabs,20,84.2,9.7,14.3,Cereals,Europe,2023
+21,NaturalCo,52,83.8,18.1,4.9,Dairy,North America,2017
+22,HealthySolutions,38,86.5,15.8,7.6,Snacks,Europe,2018
+23,GreenInc,45,82.7,16.7,5.8,Beverages,Asia Pacific,2017
+24,OrganicWorks,31,85.3,13.6,8.4,Confectionery,North America,2019
+25,PureGroup,28,81.1,12.3,6.2,Cereals,Europe,2020
+26,FreshFoods,24,84.6,10.8,11.5,Snacks,Asia Pacific,2021
+27,VitalCo,21,79.4,9.5,7.8,Dairy,North America,2022
+28,SmartBrands,18,83.9,8.2,13.6,Beverages,Europe,2023
+29,EcoWorks,15,78.7,7.1,9.8,Confectionery,Asia Pacific,2022
+30,PowerNutrition,12,82.5,6.4,16.2,Cereals,North America,2024
+31,NaturalBrands,43,81.2,16.2,3.7,Confectionery,Europe,2017
+32,HealthyInc,29,84.8,13.1,6.9,Dairy,Asia Pacific,2018
+33,GreenLabs,36,80.5,14.9,4.6,Snacks,North America,2018
+34,OrganicGroup,22,83.7,10.7,7.3,Beverages,Europe,2020
+35,PureCo,19,78.9,9.2,5.1,Cereals,Asia Pacific,2021
+36,FreshWorks,16,82.1,7.8,10.4,Dairy,North America,2022
+37,VitalIndustries,13,77.6,6.9,8.6,Snacks,Europe,2023
+38,SmartFoods,10,81.3,5.7,15.8,Beverages,Asia Pacific,2024
+39,EcoGroup,25,79.8,11.4,2.9,Confectionery,North America,2018
+40,PowerSolutions,17,82.9,8.5,6.4,Cereals,Europe,2020
+41,NaturalIndustries,32,80.1,13.8,4.2,Snacks,Asia Pacific,2018
+42,HealthyWorks,18,83.4,8.9,7.7,Dairy,North America,2021
+43,GreenNutrition,25,78.3,11.2,3.8,Beverages,Europe,2019
+44,OrganicCo,14,81.6,7.4,8.1,Confectionery,Asia Pacific,2022
+45,PureIndustries,11,76.7,6.1,4.9,Cereals,North America,2023
+46,FreshGroup,8,80.8,4.8,12.3,Snacks,Europe,2024
+47,VitalSolutions,27,78.9,12.5,1.8,Dairy,Asia Pacific,2018
+48,SmartWorks,15,82.2,7.6,5.6,Beverages,North America,2021
+49,EcoBrands,20,77.5,9.8,2.4,Confectionery,Europe,2019
+50,PowerGroup,12,81.1,6.8,7.9,Cereals,Asia Pacific,2022
+51,NaturalSolutions,9,75.2,5.3,9.7,Snacks,North America,2024
+52,HealthyLabs,22,79.6,10.6,1.4,Dairy,Europe,2018
+53,GreenWorks,13,81.8,6.2,4.8,Beverages,Asia Pacific,2021
+54,OrganicBrands,17,76.1,8.1,6.3,Confectionery,North America,2020
+55,PureFoods,6,80.4,3.9,11.8,Cereals,Europe,2024
+56,FreshCo,19,78.7,9.4,2.1,Snacks,Asia Pacific,2019
+57,VitalWorks,11,82.6,5.9,8.5,Dairy,North America,2022
+58,SmartGroup,16,77.3,7.7,3.6,Beverages,Europe,2020
+59,EcoSolutions,7,81.9,4.2,13.4,Confectionery,Asia Pacific,2024
+60,PowerCo,14,76.8,6.6,5.2,Cereals,North America,2021
+61,NaturalNutrition,21,79.1,10.1,1.9,Snacks,Europe,2018
+62,HealthyGroup,8,83.3,4.6,9.1,Dairy,Asia Pacific,2023
+63,GreenBrands,12,78.4,5.8,2.7,Beverages,North America,2020
+64,OrganicWorks,5,80.7,3.1,7.6,Confectionery,Europe,2024
+65,PureWorks,10,75.9,4.9,4.3,Cereals,Asia Pacific,2022
+66,FreshIndustries,18,81.2,8.6,1.6,Snacks,North America,2019
+67,VitalGroup,6,77.8,3.7,10.2,Dairy,Europe,2023
+68,SmartSolutions,9,82.1,4.4,6.8,Beverages,Asia Pacific,2022
+69,EcoFoods,13,76.5,6.3,3.9,Confectionery,North America,2020
+70,PowerBrands,4,79.6,2.8,8.7,Cereals,Europe,2024
+71,NaturalGroup,15,78.2,7.2,2.3,Snacks,Asia Pacific,2019
+72,HealthyCo,7,81.5,3.8,5.9,Dairy,North America,2022
+73,GreenSolutions,11,77.1,5.4,1.8,Beverages,Europe,2021
+74,OrganicFoods,3,80.3,2.4,9.8,Confectionery,Asia Pacific,2024
+75,PureGroup,8,76.4,4.1,3.4,Cereals,North America,2023
+76,FreshWorks,14,82.8,6.8,2.9,Snacks,Europe,2019
+77,VitalBrands,5,78.6,3.2,7.1,Dairy,Asia Pacific,2022
+78,SmartCo,2,81.7,1.9,12.5,Beverages,North America,2024
+79,EcoIndustries,9,77.9,4.7,4.6,Confectionery,Europe,2021
+80,PowerNutrition,6,80.1,3.5,6.2,Cereals,Asia Pacific,2023
